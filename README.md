@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy judith bolaños</h1>
+<h1 align="center">Hola 👋</h1>
 <h3 align="center">soy Judith me dedico al desarrollo de software, mi especialidad es implementar tecnologías web para dar vida a las ideas de que conforman un proyecto, te invito a que conozcas más de mí y de lo que realizo.</h3>
 
 - 🌱 Me encuentro aprendiendo **typescript , node y patrones de diseño**
