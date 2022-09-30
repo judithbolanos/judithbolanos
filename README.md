@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy judith bolaños</h1>
-<h3 align="center">soy Ingeniera de software y me apasiona crear soluciones tecnológicas de acuerdo a las necesidades existentes de una empresa permitiendo con ello mejorar su rendimiento y productividad.</h3>
+<h3 align="center">soy Judith me dedico al desarrollo de software, mi especialidad es implementar tecnologías web para dar vida a las ideas de que conforman un proyecto, te invito a que conozcas más de mí y de lo que realizo.</h3>
 
 - 🌱 Me encuentro aprendiendo **typescript , node y patrones de diseño**
 
